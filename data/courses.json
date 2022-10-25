@@ -1,11 +1,74 @@
 [
     {
         "id": "1",
-        "name": "Node JS"
+        "name": "Node JS",
+        "title": "Learn NodeJS in 20 hours",
+        "instructor": "Leo",
+        "img": "https://hazelcast.com/wp-content/uploads/2021/12/node2.png",
+        "price": "35",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        }
     },
     {
         "id": "2",
-        "name": "Python"
-        
+        "name": "Python",
+        "title": "Python Crash Course",
+        "instructor": "Harun",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/640px-Python.svg.png",
+        "price": "45",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        }
+    },
+    {
+        "id": "3",
+        "name": "React",
+        "title": "Build 12 Projects with React",
+        "instructor": "Leo",
+        "img": "https://miro.medium.com/max/512/1*6kK9j74vyOmXYm1gN6ARhQ.png",
+        "price": "75",
+        "rating": {
+            "number": 5,
+            "badge": "Excellent"
+        }
+    },
+    {
+        "id": "4",
+        "name": "Javascript",
+        "title": "Learn JavaScript with ECMAScript",
+        "instructor": "Rushdid",
+        "img": "https://w7.pngwing.com/pngs/640/199/png-transparent-javascript-logo-html-javascript-logo-angle-text-rectangle-thumbnail.png",
+        "price": "120",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        }
+    },
+    {
+        "id": "2",
+        "name": "Python",
+        "title": "Learn NodeJS in 20 hours",
+        "instructor": "Leo",
+        "img": "https://hazelcast.com/wp-content/uploads/2021/12/node2.png",
+        "price": "35",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        }
+    },
+    {
+        "id": "2",
+        "name": "Python",
+        "title": "Learn NodeJS in 20 hours",
+        "instructor": "Leo",
+        "img": "https://hazelcast.com/wp-content/uploads/2021/12/node2.png",
+        "price": "35",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        }
     }
 ]
