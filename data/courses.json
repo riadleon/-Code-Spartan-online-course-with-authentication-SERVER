@@ -48,11 +48,11 @@
         }
     },
     {
-        "id": "2",
-        "name": "Python",
-        "title": "Learn NodeJS in 20 hours",
+        "id": "5",
+        "name": "Html & CSS",
+        "title": "Learn Vanila HTML & CSS with effective projects",
         "instructor": "Leo",
-        "img": "https://hazelcast.com/wp-content/uploads/2021/12/node2.png",
+        "img": "https://miro.medium.com/max/792/1*lJ32Bl-lHWmNMUSiSq17gQ.png",
         "price": "35",
         "rating": {
             "number": 4.5,
