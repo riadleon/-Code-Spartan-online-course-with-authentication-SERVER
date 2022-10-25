@@ -60,11 +60,11 @@
         }
     },
     {
-        "id": "2",
-        "name": "Python",
-        "title": "Learn NodeJS in 20 hours",
+        "id": "6",
+        "name": "Tailwind CSS",
+        "title": "tailwind CSS framework that blows your mind",
         "instructor": "Leo",
-        "img": "https://hazelcast.com/wp-content/uploads/2021/12/node2.png",
+        "img": "https://www.pngitem.com/pimgs/m/27-275231_tailwind-as-online-business-tool-for-more-traffic.png",
         "price": "35",
         "rating": {
             "number": 4.5,
